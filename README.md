@@ -8,7 +8,6 @@ Este repositorio contiene el desarrollo de la Evaluación Solemne II para la asi
 * **`Solemne_II_JorgeHerrera.ipynb`**: Notebook con la implementación de los modelos paso a paso utilizando la metodología CRISP-DM.
 * **`german.data.C.csv`**: Dataset de entrada (versión C de German Credit Data, con 11 atributos).
 * **`german_credit_procesado.csv`**: Dataset de salida preparado y discretizado para el análisis de reglas de asociación.
-* **Documentación PDF**: Enunciados de la evaluación, rúbricas e información teórica de apoyo.
 
 ## Descripción del Proyecto
 Se implementó un modelo de clasificación basado en **Árbol de Decisión** y un análisis de **Reglas de Asociación (Algoritmo Apriori)** para la predicción de riesgo de crédito en clientes financieros, aplicando secuencialmente las fases de la metodología **CRISP-DM**:
