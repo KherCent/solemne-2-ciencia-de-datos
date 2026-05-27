@@ -4,8 +4,10 @@ Este repositorio contiene el desarrollo de la Evaluación Solemne II para la asi
 
 **Estudiante:** Jorge Kevin Herrera Centellas
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KherCent/solemne-2-ciencia-de-datos/blob/master/Solemne_II_JorgeHerrera.ipynb)
+
 ## Contenido del Repositorio
-* **`Solemne_II_JorgeHerrera.ipynb`**: Notebook con la implementación de los modelos paso a paso utilizando la metodología CRISP-DM.
+* **`Solemne_II_JorgeHerrera.ipynb`** ([Ver en Google Colab](https://colab.research.google.com/github/KherCent/solemne-2-ciencia-de-datos/blob/master/Solemne_II_JorgeHerrera.ipynb)): Notebook con la implementación de los modelos paso a paso utilizando la metodología CRISP-DM.
 * **`german.data.C.csv`**: Dataset de entrada (versión C de German Credit Data, con 11 atributos).
 * **`german_credit_procesado.csv`**: Dataset de salida preparado y discretizado para el análisis de reglas de asociación.
 
